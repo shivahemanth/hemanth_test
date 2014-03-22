@@ -1,0 +1,12 @@
+---
+server:
+  group: local
+url:
+  dev: http://localhost:3000/
+  qa: http://qa:isfun@stg.campusexplorer.com
+env_:
+  browser: local
+cdp:
+  url: /colleges/A60CD2AB/California/Berkeley/University-of-California-Berkeley/
+  campus_name: Berkley
+  campus_title: University of California, Berkeley (Cal) | (510) 642-6000

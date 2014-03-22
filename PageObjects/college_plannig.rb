@@ -1,0 +1,8 @@
+
+
+class CollegePlanning  < Base
+
+
+
+
+end

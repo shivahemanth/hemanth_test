@@ -1,0 +1,7 @@
+
+
+class Paying < Base
+
+
+
+end

@@ -1,0 +1,9 @@
+
+
+
+class CollegeSearch  < Base
+
+
+
+
+end
